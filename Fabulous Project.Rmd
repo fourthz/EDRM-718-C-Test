@@ -5,3 +5,4 @@ output: html_notebook
 
 This is going to be our fabulous project notebook.
 
+I am going to add really cool boxplots here.
